@@ -1,0 +1,2 @@
+# AIX_Seminar_GPT-2_2021_Day1_2
+AIX_Seminar_2021_Day1_2_Google_Colab
